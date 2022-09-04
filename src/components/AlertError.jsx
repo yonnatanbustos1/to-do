@@ -1,5 +1,3 @@
-import WarningImage from '../assets/warning.png'
-
 export const AlertError = ({ message }) => {
 
     return (
